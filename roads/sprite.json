@@ -1,0 +1,5 @@
+{
+  "interstate": { "x": 0, "y": 0, "width": 32, "height": 32 },
+  "ushwy": { "x": 32, "y": 0, "width": 32, "height": 32 },
+  "kyhwy": { "x": 64, "y": 0, "width": 32, "height": 32 }
+}

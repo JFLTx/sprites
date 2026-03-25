@@ -1,0 +1,5 @@
+{
+  "interstate": { "x": 0, "y": 0, "width": 64, "height": 64, "pixelRatio": 2 },
+  "ushwy": { "x": 64, "y": 0, "width": 64, "height": 64, "pixelRatio": 2 },
+  "kyhwy": { "x": 128, "y": 0, "width": 64, "height": 64, "pixelRatio": 2 }
+}
