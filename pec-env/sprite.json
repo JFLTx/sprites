@@ -1,12 +1,72 @@
 {
-  "well": { "x": 0, "y": 0, "width": 60, "height": 64 },
-  "drop": { "x": 60, "y": 0, "width": 46, "height": 64 },
-  "church": { "x": 106, "y": 0, "width": 36, "height": 64 },
-  "cemetery": { "x": 142, "y": 0, "width": 52, "height": 64 },
-  "airplane": { "x": 194, "y": 0, "width": 64, "height": 64 },
-  "library": { "x": 258, "y": 0, "width": 64, "height": 64 },
-  "school": { "x": 322, "y": 0, "width": 64, "height": 64 },
-  "pec": { "x": 386, "y": 0, "width": 50, "height": 64 },
-  "spring": { "x": 436, "y": 0, "width": 41, "height": 64 },
-  "hazard": { "x": 477, "y": 0, "width": 77, "height": 64 }
+  "airplane": {
+    "height": 488,
+    "pixelRatio": 1,
+    "width": 488,
+    "x": 1299,
+    "y": 1480
+  },
+  "cemetery": {
+    "height": 789,
+    "pixelRatio": 1,
+    "width": 645,
+    "x": 0,
+    "y": 800
+  },
+  "church": {
+    "height": 768,
+    "pixelRatio": 1,
+    "width": 436,
+    "x": 1600,
+    "y": 0
+  },
+  "drop": {
+    "height": 680,
+    "pixelRatio": 1,
+    "width": 470,
+    "x": 1299,
+    "y": 800
+  },
+  "library": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 1281,
+    "y": 1499
+  },
+  "pec": {
+    "height": 189,
+    "pixelRatio": 1,
+    "width": 148,
+    "x": 1133,
+    "y": 1499
+  },
+  "school": {
+    "height": 488,
+    "pixelRatio": 1,
+    "width": 488,
+    "x": 645,
+    "y": 1499
+  },
+  "spring": {
+    "height": 800,
+    "pixelRatio": 1,
+    "width": 800,
+    "x": 0,
+    "y": 0
+  },
+  "triangle": {
+    "height": 800,
+    "pixelRatio": 1,
+    "width": 800,
+    "x": 800,
+    "y": 0
+  },
+  "water-well": {
+    "height": 699,
+    "pixelRatio": 1,
+    "width": 654,
+    "x": 645,
+    "y": 800
+  }
 }

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   version="1.1"
+   id="cemetery"
+   width="644.67499"
+   height="789.46252"
+   viewBox="0 0 206.296 252.62801"
+   xml:space="preserve"
+   sodipodi:docname="cemetery-svgrepo-com.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="cemetery.png"
+   inkscape:export-xdpi="97.279999"
+   inkscape:export-ydpi="97.279999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2"><linearGradient
+     id="linearGradient2"
+     inkscape:collect="always"><stop
+       style="stop-color:#1d1d1d;stop-opacity:1;"
+       offset="0"
+       id="stop2" /><stop
+       style="stop-color:#898989;stop-opacity:1;"
+       offset="1"
+       id="stop3" /></linearGradient><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient2"
+     id="linearGradient3"
+     x1="103.146"
+     y1="219.46001"
+     x2="103.146"
+     y2="33.166004"
+     gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="1.48625"
+   inkscape:cx="330.02523"
+   inkscape:cy="395.96299"
+   inkscape:window-width="2560"
+   inkscape:window-height="1369"
+   inkscape:window-x="2552"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="cemetery" />
+<style
+   type="text/css"
+   id="style1">
+<![CDATA[
+	.st0{fill:#D1D1D1;}
+	.st1{fill:#454545;}
+]]>
+</style>
+<path
+   class="st0"
+   d="m 20,252.626 c -11.027,0 -20,-8.972 -20,-20 v -6.796 c 0,-11.028 8.973,-20 20,-20 h 1.591 v -1.311 c 0,-9.972 6.04,-18.022 14.235,-19.685 L 27.688,37.973 c -0.296,-5.35 1.624,-10.626 5.268,-14.478 3.645,-3.851 8.807,-6.06 14.164,-6.06 h 0.646 c 3.281,0 9.282,-2.026 11.892,-4.015 C 60.377,12.872 77.547,0 101.856,0 c 24.31,0 41.479,12.872 42.199,13.42 2.609,1.989 8.61,4.015 11.892,4.015 h 4.52 c 5.357,0 10.521,2.209 14.164,6.061 3.643,3.852 5.563,9.129 5.267,14.478 l -8.147,147.041 c 7.505,2.001 12.953,9.854 12.953,19.505 v 1.311 h 1.592 c 11.028,0 20,8.972 20,20 v 6.797 c 0,11.028 -8.972,20 -20,20 H 20 Z"
+   id="path1"
+   style="fill:#f5f5f5;fill-opacity:1" />
+<path
+   class="st1"
+   d="m 186.294,215.83 h -1.592 c -5.5,0 -10,-4.5 -10,-10 v -1.311 c 0,-5.5 -3.037,-10 -6.748,-10 -3.711,0 -6.499,-4.493 -6.194,-9.984 L 169.912,37.42 c 0.305,-5.492 -3.946,-9.985 -9.446,-9.985 h -4.52 c -5.5,0 -13.579,-2.728 -17.953,-6.062 0,0 -14.925,-11.374 -36.138,-11.374 -21.212,0 -36.137,11.374 -36.137,11.374 -4.374,3.334 -12.453,6.062 -17.953,6.062 h -0.646 c -5.5,0 -9.751,4.493 -9.446,9.985 l 8.151,147.115 c 0.305,5.491 -2.773,9.984 -6.84,9.984 -4.067,0 -7.394,4.5 -7.394,10 v 1.311 c 0,5.5 -4.5,10 -10,10 h -1.591 c -5.5,0 -10,4.5 -10,10 v 6.797 c 0,5.5 4.5,10 10,10 h 166.294 c 5.5,0 10,-4.5 10,-10 v -6.797 c 0.001,-5.5 -4.499,-10 -9.999,-10 z M 101.856,26.466 c 8.202,0 14.853,8.601 14.853,19.21 0,10.61 -6.649,19.21 -14.853,19.21 -8.204,0 -14.853,-8.601 -14.853,-19.21 0,-10.609 6.65,-19.21 14.853,-19.21 z M 126.313,181.23 H 81.314 c -4.142,0 -7.5,-3.357 -7.5,-7.5 0,-4.143 3.358,-7.5 7.5,-7.5 h 44.999 c 4.143,0 7.5,3.357 7.5,7.5 0,4.143 -3.358,7.5 -7.5,7.5 z m 7.735,-37.75 H 73.579 c -4.142,0 -7.5,-3.357 -7.5,-7.5 0,-4.143 3.358,-7.5 7.5,-7.5 h 60.469 c 4.143,0 7.5,3.357 7.5,7.5 0,4.143 -3.357,7.5 -7.5,7.5 z m 8.765,-37.75 H 64.814 c -4.142,0 -7.5,-3.358 -7.5,-7.5 0,-4.142 3.358,-7.5 7.5,-7.5 h 77.999 c 4.143,0 7.5,3.358 7.5,7.5 0,4.142 -3.358,7.5 -7.5,7.5 z"
+   id="path2"
+   style="fill:url(#linearGradient3)" />
+</svg>
