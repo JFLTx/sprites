@@ -1,0 +1,12 @@
+{
+  "well": { "x": 0, "y": 0, "width": 60, "height": 64 },
+  "drop": { "x": 60, "y": 0, "width": 46, "height": 64 },
+  "church": { "x": 106, "y": 0, "width": 36, "height": 64 },
+  "cemetery": { "x": 142, "y": 0, "width": 52, "height": 64 },
+  "airplane": { "x": 194, "y": 0, "width": 64, "height": 64 },
+  "library": { "x": 258, "y": 0, "width": 64, "height": 64 },
+  "school": { "x": 322, "y": 0, "width": 64, "height": 64 },
+  "pec": { "x": 386, "y": 0, "width": 50, "height": 64 },
+  "spring": { "x": 436, "y": 0, "width": 41, "height": 64 },
+  "hazard": { "x": 477, "y": 0, "width": 77, "height": 64 }
+}

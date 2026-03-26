@@ -1,0 +1,12 @@
+{
+  "well": { "x": 0, "y": 0, "width": 120, "height": 128, "pixelRatio": 2 },
+  "drop": { "x": 120, "y": 0, "width": 92, "height": 128, "pixelRatio": 2 },
+  "church": { "x": 212, "y": 0, "width": 72, "height": 128, "pixelRatio": 2 },
+  "cemetery": { "x": 284, "y": 0, "width": 104, "height": 128, "pixelRatio": 2 },
+  "airplane": { "x": 388, "y": 0, "width": 128, "height": 128, "pixelRatio": 2 },
+  "library": { "x": 516, "y": 0, "width": 128, "height": 128, "pixelRatio": 2 },
+  "school": { "x": 644, "y": 0, "width": 128, "height": 128, "pixelRatio": 2 },
+  "pec": { "x": 772, "y": 0, "width": 100, "height": 128, "pixelRatio": 2 },
+  "spring": { "x": 872, "y": 0, "width": 82, "height": 128, "pixelRatio": 2 },
+  "hazard": { "x": 954, "y": 0, "width": 154, "height": 128, "pixelRatio": 2 }
+}
