@@ -3,43 +3,43 @@
     "height": 976,
     "pixelRatio": 2,
     "width": 976,
-    "x": 6646,
-    "y": 0
+    "x": 1600,
+    "y": 6866
   },
   "cemetery": {
     "height": 1578,
     "pixelRatio": 2,
     "width": 1290,
-    "x": 4484,
-    "y": 0
+    "x": 1600,
+    "y": 5288
   },
   "church": {
     "height": 1536,
     "pixelRatio": 2,
     "width": 872,
-    "x": 5774,
+    "x": 2884,
     "y": 0
   },
   "drop": {
     "height": 1360,
     "pixelRatio": 2,
     "width": 940,
-    "x": 5792,
-    "y": 1536
+    "x": 2890,
+    "y": 6686
   },
   "library": {
     "height": 976,
     "pixelRatio": 2,
     "width": 976,
-    "x": 5792,
-    "y": 2896
+    "x": 0,
+    "y": 6888
   },
   "pec": {
     "height": 378,
     "pixelRatio": 2,
     "width": 296,
-    "x": 5460,
-    "y": 2976
+    "x": 2576,
+    "y": 6866
   },
   "pec2": {
     "height": 3688,
@@ -52,28 +52,35 @@
     "height": 976,
     "pixelRatio": 2,
     "width": 976,
-    "x": 4484,
-    "y": 2976
+    "x": 3830,
+    "y": 6686
   },
   "spring": {
     "height": 1600,
     "pixelRatio": 2,
     "width": 1600,
-    "x": 2884,
-    "y": 0
+    "x": 0,
+    "y": 3688
+  },
+  "square": {
+    "height": 1600,
+    "pixelRatio": 2,
+    "width": 1600,
+    "x": 0,
+    "y": 5288
   },
   "triangle": {
     "height": 1600,
     "pixelRatio": 2,
     "width": 1600,
-    "x": 2884,
-    "y": 1600
+    "x": 1600,
+    "y": 3688
   },
   "water-well": {
     "height": 1398,
     "pixelRatio": 2,
     "width": 1308,
-    "x": 4484,
-    "y": 1578
+    "x": 2890,
+    "y": 5288
   }
 }
